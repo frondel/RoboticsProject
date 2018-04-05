@@ -1,3 +1,2 @@
-# RoboticsProject
+# GSU CSc 4120 Robotics Project
 
-GSU CSc 4120 Robotics Project
